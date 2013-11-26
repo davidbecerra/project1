@@ -1,3 +1,3 @@
 project1
 ========
-BY JOSH SAMARA
+BY JOSH SAMARA and DAVID BECERRA (mostly by David)
